@@ -1,1 +1,1 @@
-# tej_bert
+# news_bert
