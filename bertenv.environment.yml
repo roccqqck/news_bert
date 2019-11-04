@@ -26,28 +26,27 @@ dependencies:
   - cudatoolkit=10.0.130=0
   - cudnn=7.6.0=cuda10.0_0
   - cupti=10.0.130=0
-  - dbus=1.13.6=he372182_0
+  - dbus=1.13.12=h746ee38_0
   - decorator=4.4.1=py_0
   - defusedxml=0.6.0=py_0
   - dill=0.3.0=py37_0
   - docutils=0.15.2=py37_0
   - entrypoints=0.3=py37_0
   - expat=2.2.6=he6710b0_0
-  - fontconfig=2.13.1=h86ecdb6_1001
+  - fontconfig=2.13.0=h9420a91_0
   - freetype=2.9.1=h8a8886c_1
   - future=0.17.1=py37_0
   - gast=0.2.2=py37_0
-  - gettext=0.19.8.1=hd7bead4_3
-  - glib=2.58.3=h6f030ca_1002
+  - glib=2.56.2=hd408876_0
   - gmp=6.1.2=h6c8ec71_1
   - google-pasta=0.1.7=py_0
   - googleapis-common-protos=1.6.0=py37_0
   - grpcio=1.16.1=py37hf8bcb03_1
-  - gst-plugins-base=1.14.5=h0935bb2_0
-  - gstreamer=1.14.5=h36ae1b5_0
+  - gst-plugins-base=1.14.0=hbbd80ab_1
+  - gstreamer=1.14.0=hb453b48_1
   - h5py=2.9.0=py37h7918eee_0
   - hdf5=1.10.4=hb1b8bf9_0
-  - icu=64.2=he1b5a44_1
+  - icu=58.2=h9c2bf20_1
   - idna=2.8=py37_0
   - importlib_metadata=0.23=py37_0
   - intel-openmp=2019.4=243
@@ -59,14 +58,14 @@ dependencies:
   - jinja2=2.10.3=py_0
   - jmespath=0.9.4=py_0
   - joblib=0.13.2=py37_0
-  - jpeg=9c=h14c3975_1001
+  - jpeg=9b=h024ee3a_2
   - json5=0.8.5=py_0
   - jsonschema=3.1.1=py37_0
   - jupyter=1.0.0=py37_7
   - jupyter_client=5.3.4=py37_0
   - jupyter_console=6.0.0=py37_0
   - jupyter_core=4.6.0=py37_0
-  - jupyterlab=1.2.0=py_0
+  - jupyterlab=1.2.1=py_0
   - jupyterlab_server=1.0.6=py_0
   - keras-applications=1.0.8=py_0
   - keras-preprocessing=1.1.0=py_1
@@ -74,14 +73,12 @@ dependencies:
   - libffi=3.2.1=hd88cf55_4
   - libgcc-ng=9.1.0=hdf63c60_0
   - libgfortran-ng=7.3.0=hdf63c60_0
-  - libiconv=1.15=h63c8f33_5
   - libpng=1.6.37=hbc83047_0
   - libprotobuf=3.9.2=hd408876_0
   - libsodium=1.0.16=h1bed415_0
   - libstdcxx-ng=9.1.0=hdf63c60_0
   - libtiff=4.0.10=h2733197_2
-  - libuuid=2.32.1=h14c3975_1000
-  - libuv=1.32.0=h516909a_0
+  - libuuid=1.0.3=h1bed415_2
   - libxcb=1.13=h1bed415_1
   - libxml2=2.9.9=hea5a465_1
   - markdown=3.1.1=py37_0
@@ -96,7 +93,6 @@ dependencies:
   - nbformat=4.4.0=py37_0
   - ncurses=6.1=he6710b0_1
   - ninja=1.9.0=py37hfd86e86_0
-  - nodejs=10.16.3=h10a4023_0
   - notebook=6.0.1=py37_0
   - numpy=1.17.2=py37haad9e8e_0
   - numpy-base=1.17.2=py37hde5b4d6_0
@@ -129,7 +125,7 @@ dependencies:
   - pytorch=1.3.0=py3.7_cuda10.0.130_cudnn7.6.3_0
   - pytz=2019.3=py_0
   - pyzmq=18.1.0=py37he6710b0_0
-  - qt=5.9.7=h0c104cb_3
+  - qt=5.9.7=h5867ecd_1
   - qtconsole=4.5.5=py_0
   - readline=7.0=h7b6447c_5
   - regex=2019.08.19=py37h7b6447c_0
