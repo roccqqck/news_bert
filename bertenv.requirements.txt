@@ -97,7 +97,7 @@ torchvision==0.4.2
 tornado==6.0.3
 tqdm==4.36.1
 traitlets==4.3.3
--e git://github.com/huggingface/transformers.git@7a9aae1044aa4699310a8004f631fc0a4bdf1b65
+-e git://github.com/huggingface/transformers.git@7a9aae1044aa4699310a8004f631fc0a4bdf1b65#egg=transformers
 urllib3==1.24.2
 wcwidth==0.1.7
 webencodings==0.5.1
