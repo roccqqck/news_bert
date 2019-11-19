@@ -19,7 +19,7 @@ dependencies:
   - c-ares=1.15.0=h7b6447c_1001
   - ca-certificates=2019.10.16=0
   - certifi=2019.9.11=py37_0
-  - cffi=1.13.1=py37h2e261b9_0
+  - cffi=1.13.2=py37h2e261b9_0
   - chardet=3.0.4=py37_1003
   - click=7.0=py37_0
   - cryptography=2.8=py37h1ba5d50_0
@@ -99,7 +99,7 @@ dependencies:
   - olefile=0.46=py37_0
   - openssl=1.1.1d=h7b6447c_3
   - opt_einsum=3.1.0=py_0
-  - pandas=0.25.2=py37he6710b0_0
+  - pandas=0.25.3=py37he6710b0_0
   - pandoc=2.2.3.2=0
   - pandocfilters=1.4.2=py37_1
   - parso=0.5.1=py_0
