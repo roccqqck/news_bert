@@ -49,7 +49,7 @@ more-itertools==7.2.0
 nbconvert==5.6.1
 nbformat==4.4.0
 notebook<6.1
-numpy==1.17.3
+numpy==1.17.4
 olefile==0.46
 opt-einsum==3.1.0
 pandas==0.25.3
@@ -95,7 +95,7 @@ torchvision==0.4.2
 tornado==6.0.3
 tqdm==4.36.1
 traitlets==4.3.3
--e git://github.com/huggingface/transformers.git@7a9aae1044aa4699310a8004f631fc0a4bdf1b65#egg=transformers
+git+https://github.com/huggingface/transformers.git@7a9aae1044aa4699310a8004f631fc0a4bdf1b65#egg=transformers
 urllib3==1.24.2
 wcwidth==0.1.7
 webencodings==0.5.1
