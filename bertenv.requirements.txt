@@ -80,6 +80,7 @@ sacremoses==0.0.35
 scikit-learn==0.21.3
 scipy==1.3.1
 Send2Trash==1.5.0
+sentencepiece==0.1.83
 six==1.12.0
 snownlp==0.12.3
 tensorboard==2.0.0
@@ -95,7 +96,7 @@ torchvision==0.4.2
 tornado==6.0.3
 tqdm==4.36.1
 traitlets==4.3.3
-git+https://github.com/huggingface/transformers.git@7a9aae1044aa4699310a8004f631fc0a4bdf1b65#egg=transformers
+transformers==2.2.1
 urllib3==1.24.2
 wcwidth==0.1.7
 webencodings==0.5.1
