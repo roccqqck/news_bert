@@ -33,7 +33,6 @@ jmespath==0.9.4
 joblib==0.14.0
 json5==0.8.5
 jsonschema==3.1.1
-jupyter==1.0.0
 jupyter-client==5.3.4
 jupyter-core==4.6.1
 jupyterlab>=1.2.0, <1.3.0
