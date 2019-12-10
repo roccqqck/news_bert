@@ -6,7 +6,6 @@ channels:
   - roccqqck
 dependencies:
   - _libgcc_mutex=0.1=main
-  - _tflow_select=2.1.0=gpu
   - absl-py=0.8.1=py37_0
   - asn1crypto=1.2.0=py37_0
   - astor=0.8.0=py37_0
@@ -121,7 +120,7 @@ dependencies:
   - pysocks=1.7.1=py37_0
   - python=3.7
   - python-dateutil=2.8.1=py_0
-  - pytorch=1.3.1=py3.7_cuda10.0.130_cudnn7.6.3_0
+  - pytorch=1.3.1
   - pytz=2019.3=py_0
   - pyzmq=18.1.0=py37he6710b0_0
   - qt=5.9.7=h5867ecd_1
@@ -130,26 +129,24 @@ dependencies:
   - regex=2019.08.19=py37h7b6447c_0
   - requests=2.22.0=py37_0
   - s3transfer=0.1.13=py37_0
-  - sacremoses=0.0.35=py_0
-  - scikit-learn=0.21.3=py37hd81dba3_0
+  - sacremoses=0.0.35
+  - scikit-learn=0.21.3
   - scipy=1.3.2
   - send2trash=1.5.0=py37_0
   - setuptools=41.6.0=py37_0
   - sip=4.19.8=py37hf484d3e_0
   - six=1.12.0=py37_0
   - sqlite=3.30.1=h7b6447c_0
-  - tensorboard=2.0.0=pyhb230dea_0
-  - tensorflow=2.0.0=gpu_py37h768510d_0
-  - tensorflow-base=2.0.0=gpu_py37h0ec5d1f_0
-  - tensorflow-datasets=1.2.0=py37_0
-  - tensorflow-estimator=2.0.0=pyh2649769_0
-  - tensorflow-gpu=2.0.0=h0d30ee6_0
-  - tensorflow-metadata=0.14.0=pyhe6710b0_1
-  - termcolor=1.1.0=py37_1
-  - terminado=0.8.2=py37_0
-  - testpath=0.4.2=py37_0
+  - tensorboard=2.0.0
+  - tensorflow-datasets=1.2.0
+  - tensorflow-estimator=2.0.0
+  - tensorflow-gpu=2.0.0
+  - tensorflow-metadata=0.14.0
+  - termcolor=1.1.0
+  - terminado=0.8.2
+  - testpath=0.4.2
   - tk=8.6.8=hbc83047_0
-  - torchvision=0.4.2=py37_cu100
+  - torchvision=0.4.2
   - tornado=6.0.3=py37h7b6447c_0
   - tqdm=4.36.1=py_0
   - traitlets=4.3.3=py37_0
