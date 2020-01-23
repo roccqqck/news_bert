@@ -4,6 +4,7 @@ channels:
   - defaults
   - conda-forge
   - roccqqck
+  - anaconda
 dependencies:
   - _libgcc_mutex=0.1=main
   - absl-py=0.8.1=py37_0
