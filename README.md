@@ -8,5 +8,7 @@ conda activate bertenv
 
 ### or my pip requirements python=3.7 cuda=10.0 cudnn=7.6.4
 ```
-pip install -r https://github.com/roccqqck/news_bert/raw/master/bertenv.requirements.txt
+python3.7 -m venv ~/.local/venvs/bertenv
+source ~/.local/venvs/bertenv/bin/activate
+python3.7 -m pip install -r https://github.com/roccqqck/news_bert/raw/master/bertenv.requirements.txt
 ```
