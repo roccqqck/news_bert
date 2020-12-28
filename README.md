@@ -6,7 +6,7 @@ conda env create -f bertenv.environment.yml
 conda activate bertenv
 ```
 
-### or my pip requirements python=3.7 cuda=10.0 cudnn=7.6.4
+### or my pip requirements python=3.7 cuda=10.0 cudnn=7.6.4 nvidia-driver>= 410.48
 ```
 python3.7 -m venv ~/.local/venvs/bertenv
 source ~/.local/venvs/bertenv/bin/activate
